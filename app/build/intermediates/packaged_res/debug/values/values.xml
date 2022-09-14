@@ -9,6 +9,10 @@
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">VeryGoodEats</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_categories">Categories</string>
+    <string name="home_popular_eats">Popular eats</string>
+    <string name="home_subtitle_message">What\'s cooking today?</string>
+    <string name="home_welcome">Home</string>
     <style name="Theme.VeryGoodEats" parent="Theme.MaterialComponents.Light.NoActionBar">
         
         <item name="colorPrimary">@color/primary</item>

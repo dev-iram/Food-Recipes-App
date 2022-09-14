@@ -12,33 +12,36 @@ com.example.verygoodeats.app-navigation-ui-2.5.2-10 C:\Users\Gaming Pc\Documents
 com.example.verygoodeats.app-lifecycle-viewmodel-savedstate-2.5.1-11 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\38f7378b3102ae72bc785af1c2062680\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
 com.example.verygoodeats.app-core-1.8.0-12 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\39858a0edda35c9bad4a02052f2a3484\transformed\core-1.8.0\res
 com.example.verygoodeats.app-navigation-fragment-2.5.2-13 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\3c864199c9f195899a43b46660d8ac68\transformed\navigation-fragment-2.5.2\res
-com.example.verygoodeats.app-slidingpanelayout-1.2.0-14 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\43dad66e8f75d3515df830a8dd8b250f\transformed\slidingpanelayout-1.2.0\res
-com.example.verygoodeats.app-transition-1.4.1-15 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\57fa9819c6a69ebce9049d549bff1edc\transformed\transition-1.4.1\res
-com.example.verygoodeats.app-navigation-common-2.5.2-16 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\5e36976b48fa3cb9b2c5cbf72452d616\transformed\navigation-common-2.5.2\res
-com.example.verygoodeats.app-recyclerview-1.1.0-17 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\602071a6143264f9e6f1e3e8613bdfdc\transformed\recyclerview-1.1.0\res
-com.example.verygoodeats.app-constraintlayout-2.0.4-18 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\6b86088a49c79524b61b264c6914d59e\transformed\constraintlayout-2.0.4\res
-com.example.verygoodeats.app-fragment-ktx-1.5.2-19 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\6f7a335597faca75272c56289ef93329\transformed\fragment-ktx-1.5.2\res
-com.example.verygoodeats.app-drawerlayout-1.1.1-20 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\75a3c18948cfdaba36b78ca0e20d5c00\transformed\drawerlayout-1.1.1\res
-com.example.verygoodeats.app-material-1.4.0-21 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\7baf4b3010b0c69b4075dac2330b7a9d\transformed\material-1.4.0\res
-com.example.verygoodeats.app-fragment-1.5.2-22 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\7d511a84a4a79e53a0626155ffd1eedb\transformed\fragment-1.5.2\res
-com.example.verygoodeats.app-annotation-experimental-1.1.0-23 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\857e03149483f701a2d3531919e69de5\transformed\annotation-experimental-1.1.0\res
-com.example.verygoodeats.app-navigation-common-ktx-2.5.2-24 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\b1fb7886d3140628d0c676241cf41ad1\transformed\navigation-common-ktx-2.5.2\res
-com.example.verygoodeats.app-coordinatorlayout-1.1.0-25 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\b5ccbe2a6bfe5dad48b5cb554b7ea338\transformed\coordinatorlayout-1.1.0\res
-com.example.verygoodeats.app-lifecycle-runtime-2.5.1-26 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\c212f43ac60f4030155113d80650484c\transformed\lifecycle-runtime-2.5.1\res
-com.example.verygoodeats.app-appcompat-1.3.0-27 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\ccdc8c954c225971fb1ba682628455ca\transformed\appcompat-1.3.0\res
-com.example.verygoodeats.app-savedstate-ktx-1.2.0-28 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\d675fd16f34da305fc8b36f95207523a\transformed\savedstate-ktx-1.2.0\res
-com.example.verygoodeats.app-viewpager2-1.0.0-29 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\d818e9c285c81031048e980ab34d2511\transformed\viewpager2-1.0.0\res
-com.example.verygoodeats.app-core-ktx-1.7.0-30 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\df7740520afee153f97fa22e7a845f13\transformed\core-ktx-1.7.0\res
-com.example.verygoodeats.app-window-1.0.0-31 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\e151097bac6f8d9420c3b2e432c04dbb\transformed\window-1.0.0\res
-com.example.verygoodeats.app-lifecycle-viewmodel-ktx-2.5.1-32 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\e336f63ff8535564ae2718a815ddeb43\transformed\lifecycle-viewmodel-ktx-2.5.1\res
-com.example.verygoodeats.app-savedstate-1.2.0-33 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\eb944d955966d410269278d2c4c52cfe\transformed\savedstate-1.2.0\res
-com.example.verygoodeats.app-navigation-runtime-2.5.2-34 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\ee292a5e5dabb071cad62a4c61949b1c\transformed\navigation-runtime-2.5.2\res
-com.example.verygoodeats.app-navigation-runtime-ktx-2.5.2-35 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\ef048ad5690930d02cb7945e664e0c8f\transformed\navigation-runtime-ktx-2.5.2\res
-com.example.verygoodeats.app-pngs-36 C:\Users\Gaming Pc\Documents\VeryGoodEats\app\build\generated\res\pngs\debug
-com.example.verygoodeats.app-resValues-37 C:\Users\Gaming Pc\Documents\VeryGoodEats\app\build\generated\res\resValues\debug
-com.example.verygoodeats.app-rs-38 C:\Users\Gaming Pc\Documents\VeryGoodEats\app\build\generated\res\rs\debug
-com.example.verygoodeats.app-packageDebugResources-39 C:\Users\Gaming Pc\Documents\VeryGoodEats\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.verygoodeats.app-packageDebugResources-40 C:\Users\Gaming Pc\Documents\VeryGoodEats\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.verygoodeats.app-merged_res-41 C:\Users\Gaming Pc\Documents\VeryGoodEats\app\build\intermediates\merged_res\debug
-com.example.verygoodeats.app-debug-42 C:\Users\Gaming Pc\Documents\VeryGoodEats\app\src\debug\res
-com.example.verygoodeats.app-main-43 C:\Users\Gaming Pc\Documents\VeryGoodEats\app\src\main\res
+com.example.verygoodeats.app-sdp-android-1.0.6-14 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\40b4d4d0909bee78aeb8242bf30af0f5\transformed\sdp-android-1.0.6\res
+com.example.verygoodeats.app-slidingpanelayout-1.2.0-15 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\43dad66e8f75d3515df830a8dd8b250f\transformed\slidingpanelayout-1.2.0\res
+com.example.verygoodeats.app-transition-1.4.1-16 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\57fa9819c6a69ebce9049d549bff1edc\transformed\transition-1.4.1\res
+com.example.verygoodeats.app-navigation-common-2.5.2-17 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\5e36976b48fa3cb9b2c5cbf72452d616\transformed\navigation-common-2.5.2\res
+com.example.verygoodeats.app-recyclerview-1.1.0-18 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\602071a6143264f9e6f1e3e8613bdfdc\transformed\recyclerview-1.1.0\res
+com.example.verygoodeats.app-constraintlayout-2.0.4-19 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\6b86088a49c79524b61b264c6914d59e\transformed\constraintlayout-2.0.4\res
+com.example.verygoodeats.app-fragment-ktx-1.5.2-20 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\6f7a335597faca75272c56289ef93329\transformed\fragment-ktx-1.5.2\res
+com.example.verygoodeats.app-drawerlayout-1.1.1-21 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\75a3c18948cfdaba36b78ca0e20d5c00\transformed\drawerlayout-1.1.1\res
+com.example.verygoodeats.app-material-1.4.0-22 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\7baf4b3010b0c69b4075dac2330b7a9d\transformed\material-1.4.0\res
+com.example.verygoodeats.app-fragment-1.5.2-23 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\7d511a84a4a79e53a0626155ffd1eedb\transformed\fragment-1.5.2\res
+com.example.verygoodeats.app-annotation-experimental-1.1.0-24 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\857e03149483f701a2d3531919e69de5\transformed\annotation-experimental-1.1.0\res
+com.example.verygoodeats.app-ssp-android-1.0.6-25 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\938913b8ffc028d11712903064c7ed3f\transformed\ssp-android-1.0.6\res
+com.example.verygoodeats.app-android-gif-drawable-1.2.17-26 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\a5a516f6e3b59a4549c243f4b458179c\transformed\android-gif-drawable-1.2.17\res
+com.example.verygoodeats.app-navigation-common-ktx-2.5.2-27 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\b1fb7886d3140628d0c676241cf41ad1\transformed\navigation-common-ktx-2.5.2\res
+com.example.verygoodeats.app-coordinatorlayout-1.1.0-28 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\b5ccbe2a6bfe5dad48b5cb554b7ea338\transformed\coordinatorlayout-1.1.0\res
+com.example.verygoodeats.app-lifecycle-runtime-2.5.1-29 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\c212f43ac60f4030155113d80650484c\transformed\lifecycle-runtime-2.5.1\res
+com.example.verygoodeats.app-appcompat-1.3.0-30 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\ccdc8c954c225971fb1ba682628455ca\transformed\appcompat-1.3.0\res
+com.example.verygoodeats.app-savedstate-ktx-1.2.0-31 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\d675fd16f34da305fc8b36f95207523a\transformed\savedstate-ktx-1.2.0\res
+com.example.verygoodeats.app-viewpager2-1.0.0-32 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\d818e9c285c81031048e980ab34d2511\transformed\viewpager2-1.0.0\res
+com.example.verygoodeats.app-core-ktx-1.7.0-33 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\df7740520afee153f97fa22e7a845f13\transformed\core-ktx-1.7.0\res
+com.example.verygoodeats.app-window-1.0.0-34 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\e151097bac6f8d9420c3b2e432c04dbb\transformed\window-1.0.0\res
+com.example.verygoodeats.app-lifecycle-viewmodel-ktx-2.5.1-35 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\e336f63ff8535564ae2718a815ddeb43\transformed\lifecycle-viewmodel-ktx-2.5.1\res
+com.example.verygoodeats.app-savedstate-1.2.0-36 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\eb944d955966d410269278d2c4c52cfe\transformed\savedstate-1.2.0\res
+com.example.verygoodeats.app-navigation-runtime-2.5.2-37 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\ee292a5e5dabb071cad62a4c61949b1c\transformed\navigation-runtime-2.5.2\res
+com.example.verygoodeats.app-navigation-runtime-ktx-2.5.2-38 C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\ef048ad5690930d02cb7945e664e0c8f\transformed\navigation-runtime-ktx-2.5.2\res
+com.example.verygoodeats.app-pngs-39 C:\Users\Gaming Pc\Documents\VeryGoodEats\app\build\generated\res\pngs\debug
+com.example.verygoodeats.app-resValues-40 C:\Users\Gaming Pc\Documents\VeryGoodEats\app\build\generated\res\resValues\debug
+com.example.verygoodeats.app-rs-41 C:\Users\Gaming Pc\Documents\VeryGoodEats\app\build\generated\res\rs\debug
+com.example.verygoodeats.app-packageDebugResources-42 C:\Users\Gaming Pc\Documents\VeryGoodEats\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.verygoodeats.app-packageDebugResources-43 C:\Users\Gaming Pc\Documents\VeryGoodEats\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.verygoodeats.app-merged_res-44 C:\Users\Gaming Pc\Documents\VeryGoodEats\app\build\intermediates\merged_res\debug
+com.example.verygoodeats.app-debug-45 C:\Users\Gaming Pc\Documents\VeryGoodEats\app\src\debug\res
+com.example.verygoodeats.app-main-46 C:\Users\Gaming Pc\Documents\VeryGoodEats\app\src\main\res

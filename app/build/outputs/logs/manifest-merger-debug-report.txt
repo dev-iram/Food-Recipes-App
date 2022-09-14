@@ -30,6 +30,9 @@ MERGED from [androidx.loader:loader:1.0.0] C:\Users\Gaming Pc\Documents\Android 
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\099c7b50d5c6997f84db404278e30350\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\38f7378b3102ae72bc785af1c2062680\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\df7740520afee153f97fa22e7a845f13\transformed\core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\40b4d4d0909bee78aeb8242bf30af0f5\transformed\sdp-android-1.0.6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.intuit.ssp:ssp-android:1.0.6] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\938913b8ffc028d11712903064c7ed3f\transformed\ssp-android-1.0.6\AndroidManifest.xml:2:1-11:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.17] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\a5a516f6e3b59a4549c243f4b458179c\transformed\android-gif-drawable-1.2.17\AndroidManifest.xml:2:1-10:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\3292e01a2bd479c4855ad3f8cac1d149\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\d675fd16f34da305fc8b36f95207523a\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\eb944d955966d410269278d2c4c52cfe\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
@@ -56,6 +59,7 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Gaming P
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\af4c7b4be5dcde7203a695ae1668ea72\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\9bcfd13e6b946bec3801a597d303f7f2\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\857e03149483f701a2d3531919e69de5\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [pl.droidsonroids.relinker:relinker:1.3.1] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\9c716c5febfccbfbef3a380667de59dc\transformed\relinker-1.3.1\AndroidManifest.xml:2:1-7:12
 INJECTED from C:\Users\Gaming Pc\Documents\VeryGoodEats\app\src\main\AndroidManifest.xml:2:1-30:12
 INJECTED from C:\Users\Gaming Pc\Documents\VeryGoodEats\app\src\main\AndroidManifest.xml:2:1-30:12
 INJECTED from C:\Users\Gaming Pc\Documents\VeryGoodEats\app\src\main\AndroidManifest.xml:2:1-30:12
@@ -185,6 +189,12 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\G
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\38f7378b3102ae72bc785af1c2062680\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\df7740520afee153f97fa22e7a845f13\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\df7740520afee153f97fa22e7a845f13\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\40b4d4d0909bee78aeb8242bf30af0f5\transformed\sdp-android-1.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\40b4d4d0909bee78aeb8242bf30af0f5\transformed\sdp-android-1.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.ssp:ssp-android:1.0.6] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\938913b8ffc028d11712903064c7ed3f\transformed\ssp-android-1.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.ssp:ssp-android:1.0.6] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\938913b8ffc028d11712903064c7ed3f\transformed\ssp-android-1.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.17] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\a5a516f6e3b59a4549c243f4b458179c\transformed\android-gif-drawable-1.2.17\AndroidManifest.xml:6:5-8:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.17] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\a5a516f6e3b59a4549c243f4b458179c\transformed\android-gif-drawable-1.2.17\AndroidManifest.xml:6:5-8:41
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\3292e01a2bd479c4855ad3f8cac1d149\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\3292e01a2bd479c4855ad3f8cac1d149\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\d675fd16f34da305fc8b36f95207523a\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
@@ -237,6 +247,8 @@ MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Gaming Pc\Documents\Androi
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\9bcfd13e6b946bec3801a597d303f7f2\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\857e03149483f701a2d3531919e69de5\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\857e03149483f701a2d3531919e69de5\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [pl.droidsonroids.relinker:relinker:1.3.1] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\9c716c5febfccbfbef3a380667de59dc\transformed\relinker-1.3.1\AndroidManifest.xml:5:5-43
+MERGED from [pl.droidsonroids.relinker:relinker:1.3.1] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\9c716c5febfccbfbef3a380667de59dc\transformed\relinker-1.3.1\AndroidManifest.xml:5:5-43
 INJECTED from C:\Users\Gaming Pc\Documents\VeryGoodEats\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Gaming Pc\Documents\VeryGoodEats\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion

@@ -2,4 +2,11 @@
     <string name="app_name">VeryGoodEats</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_welcome">Home</string>
+    <string name="home_subtitle_message">What\'s cooking today?</string>
+    <string name="home_popular_eats">Popular eats</string>
+    <string name="home_categories">Categories</string>
+
+
+
 </resources>

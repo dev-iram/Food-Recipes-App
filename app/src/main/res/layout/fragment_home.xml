@@ -1,14 +1,141 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context=".HomeFragment">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
+    <androidx.core.widget.NestedScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="Home" />
+        android:fillViewport="true">
 
-</FrameLayout>
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+<LinearLayout
+    android:id="@+id/home_Header"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="@dimen/_10ssp"
+    android:layout_marginTop="@dimen/_10sdp"
+    android:layout_marginEnd="@dimen/_5sdp"
+    android:orientation="horizontal"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent">
+
+    <TextView
+        android:id="@+id/home_Logo"
+        android:layout_weight="3"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/playfairdisplay_regular"
+        android:text="@string/home_welcome"
+        android:textSize="@dimen/_25sdp"
+        android:textStyle="bold"
+        android:textColor="@color/accent">
+    </TextView>
+
+    <ImageView
+        android:id="@+id/home_search"
+        android:layout_width="@dimen/_30sdp"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_search">
+    </ImageView>
+</LinearLayout>
+
+    <TextView
+        android:id="@+id/home_subtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:fontFamily="@font/playfairdisplay_regular"
+        android:text="@string/home_subtitle_message"
+        android:textColor="@color/primary"
+        android:textSize="@dimen/_18ssp"
+        android:textStyle="bold"
+        app:layout_constraintTop_toBottomOf="@id/home_Header"
+        app:layout_constraintStart_toStartOf="@id/home_Header">
+    </TextView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/home_image_meal_card"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_160sdp"
+        android:layout_marginStart="@dimen/_5ssp"
+        android:layout_marginEnd="@dimen/_5ssp"
+        android:layout_marginTop="@dimen/_5ssp"
+        app:cardCornerRadius="@dimen/_10ssp"
+        app:cardUseCompatPadding="true"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/home_subtitle">
+
+    <ImageView
+        android:id="@+id/home_image_meal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/accent"/>
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:id="@+id/home_popular_eats"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:fontFamily="@font/playfairdisplay_regular"
+        android:text="@string/home_popular_eats"
+        android:textColor="@color/primary"
+        android:textSize="@dimen/_18ssp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="@id/home_subtitle"
+        app:layout_constraintTop_toBottomOf="@id/home_image_meal_card"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/popular_eats_recycler_view"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/_90sdp"
+        android:layout_marginStart="@dimen/_25sdp"
+        android:layout_marginEnd="@dimen/_10sdp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/home_popular_eats"/>
+
+    <TextView
+        android:id="@+id/home_categories"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:fontFamily="@font/playfairdisplay_regular"
+        android:text="@string/home_categories"
+        android:textColor="@color/primary"
+        android:textSize="@dimen/_18ssp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="@id/home_popular_eats"
+        app:layout_constraintTop_toBottomOf="@id/popular_eats_recycler_view"/>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/home_categories_cardview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_25sdp"
+        android:layout_marginEnd="@dimen/_25sdp"
+        android:layout_marginTop="@dimen/_5ssp"
+        app:cardCornerRadius="@dimen/_10ssp"
+        app:cardUseCompatPadding="true"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/home_categories">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/categories_recyclerview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="none">
+                </androidx.recyclerview.widget.RecyclerView>
+            </androidx.cardview.widget.CardView>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.core.widget.NestedScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
