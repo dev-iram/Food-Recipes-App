@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color accent
+color black
+color primary
+color purple_200
+color teal_200
+color teal_700
+color white
+drawable ic_categories
+drawable ic_favorites
+drawable ic_home
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id bottom_Navigation
+id categoriesFragment
+id favouritesFragment
+id homeFragment
+id host_fragment
+id nav_graph
+layout activity_main
+layout fragment_categories
+layout fragment_favourites
+layout fragment_home
+menu bottom_menu
+mipmap ic_launcher
+mipmap ic_launcher_round
+navigation nav_graph
+string app_name
+string hello_blank_fragment
+style Theme.VeryGoodEats
+xml backup_rules
+xml data_extraction_rules
