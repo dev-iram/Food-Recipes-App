@@ -24,7 +24,7 @@
         android:theme="@style/Theme.VeryGoodEats"
         android:usesCleartextTraffic="true" >
         <activity
-            android:name="com.example.verygoodeats.MainActivity"
+            android:name="com.example.verygoodeats.activities.MainActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -4,6 +4,7 @@ ADDED from C:\Users\Gaming Pc\Documents\VeryGoodEats\app\src\main\AndroidManifes
 INJECTED from C:\Users\Gaming Pc\Documents\VeryGoodEats\app\src\main\AndroidManifest.xml:2:1-30:12
 INJECTED from C:\Users\Gaming Pc\Documents\VeryGoodEats\app\src\main\AndroidManifest.xml:2:1-30:12
 INJECTED from C:\Users\Gaming Pc\Documents\VeryGoodEats\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\f87045d13cf7e3313b6ede0242c2118d\transformed\viewbinding-7.2.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.2] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\10fedb13eb3d22aa52b606324a5f551f\transformed\navigation-fragment-ktx-2.5.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-fragment:2.5.2] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\3c864199c9f195899a43b46660d8ac68\transformed\navigation-fragment-2.5.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment-ktx:1.5.2] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\6f7a335597faca75272c56289ef93329\transformed\fragment-ktx-1.5.2\AndroidManifest.xml:17:1-24:12
@@ -21,6 +22,7 @@ MERGED from [androidx.window:window:1.0.0] C:\Users\Gaming Pc\Documents\Android 
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\7baf4b3010b0c69b4075dac2330b7a9d\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\6b86088a49c79524b61b264c6914d59e\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\ccdc8c954c225971fb1ba682628455ca\transformed\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\d1b5b6a16e8b3328234cd0ad144548eb\transformed\glide-4.12.0\AndroidManifest.xml:2:1-12:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\d818e9c285c81031048e980ab34d2511\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.5.2] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\7d511a84a4a79e53a0626155ffd1eedb\transformed\fragment-1.5.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity:1.5.1] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\08ed359655ac8687055e457d474f440e\transformed\activity-1.5.1\AndroidManifest.xml:17:1-24:12
@@ -33,15 +35,14 @@ MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\Gaming Pc\Documents\Android 
 MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\40b4d4d0909bee78aeb8242bf30af0f5\transformed\sdp-android-1.0.6\AndroidManifest.xml:2:1-11:12
 MERGED from [com.intuit.ssp:ssp-android:1.0.6] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\938913b8ffc028d11712903064c7ed3f\transformed\ssp-android-1.0.6\AndroidManifest.xml:2:1-11:12
 MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.17] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\a5a516f6e3b59a4549c243f4b458179c\transformed\android-gif-drawable-1.2.17\AndroidManifest.xml:2:1-10:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\3292e01a2bd479c4855ad3f8cac1d149\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\d675fd16f34da305fc8b36f95207523a\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\eb944d955966d410269278d2c4c52cfe\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\f9809ec2080ef6562ba4cd987fca9a13\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\0bc6cf5b049b1fdd278e5ec7d0d096f1\transformed\appcompat-resources-1.3.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\19584def5cd3bd11dbdb2b0b7d449af5\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\b5ccbe2a6bfe5dad48b5cb554b7ea338\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\23642883c7593f5312431cad83b068bf\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\72c23bc281237ded14d74a34c225d993\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\d8715f79c38c9da83dc192d9f77bf36a\transformed\gifdecoder-4.12.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\51ad15676f7b99f8e00dfcc41fe87707\transformed\exifinterface-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\602071a6143264f9e6f1e3e8613bdfdc\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\75a3c18948cfdaba36b78ca0e20d5c00\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\6db566fb57605dc708a506976c76524c\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -53,8 +54,11 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Gaming Pc\Docume
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\aa66ead9442a65de7cd06b621f065c54\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\9e317407a6cf4c48efbc9c8b280c6581\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\7341f734db0e321b6e690cf15510a7ca\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\d675fd16f34da305fc8b36f95207523a\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\eb944d955966d410269278d2c4c52cfe\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\c212f43ac60f4030155113d80650484c\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\c5cfa46192c6459a466286c446cd169d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\3292e01a2bd479c4855ad3f8cac1d149\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\1688a8e3f91b4524e8c84093f5c44f4e\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\af4c7b4be5dcde7203a695ae1668ea72\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\9bcfd13e6b946bec3801a597d303f7f2\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
@@ -91,6 +95,10 @@ MERGED from [com.google.android.material:material:1.4.0] C:\Users\Gaming Pc\Docu
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\7baf4b3010b0c69b4075dac2330b7a9d\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\6b86088a49c79524b61b264c6914d59e\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\6b86088a49c79524b61b264c6914d59e\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\d1b5b6a16e8b3328234cd0ad144548eb\transformed\glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\d1b5b6a16e8b3328234cd0ad144548eb\transformed\glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\d8715f79c38c9da83dc192d9f77bf36a\transformed\gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\d8715f79c38c9da83dc192d9f77bf36a\transformed\gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
 MERGED from [androidx.core:core:1.8.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\39858a0edda35c9bad4a02052f2a3484\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.8.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\39858a0edda35c9bad4a02052f2a3484\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\169424ef22b2764469f41a4fa926f240\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
@@ -117,12 +125,12 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ga
 		ADDED from C:\Users\Gaming Pc\Documents\VeryGoodEats\app\src\main\AndroidManifest.xml:11:9-65
 	android:usesCleartextTraffic
 		ADDED from C:\Users\Gaming Pc\Documents\VeryGoodEats\app\src\main\AndroidManifest.xml:9:9-44
-activity#com.example.verygoodeats.MainActivity
+activity#com.example.verygoodeats.activities.MainActivity
 ADDED from C:\Users\Gaming Pc\Documents\VeryGoodEats\app\src\main\AndroidManifest.xml:19:9-27:20
 	android:exported
 		ADDED from C:\Users\Gaming Pc\Documents\VeryGoodEats\app\src\main\AndroidManifest.xml:21:13-36
 	android:name
-		ADDED from C:\Users\Gaming Pc\Documents\VeryGoodEats\app\src\main\AndroidManifest.xml:20:13-41
+		ADDED from C:\Users\Gaming Pc\Documents\VeryGoodEats\app\src\main\AndroidManifest.xml:20:13-52
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from C:\Users\Gaming Pc\Documents\VeryGoodEats\app\src\main\AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
@@ -137,6 +145,8 @@ uses-sdk
 INJECTED from C:\Users\Gaming Pc\Documents\VeryGoodEats\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Gaming Pc\Documents\VeryGoodEats\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Gaming Pc\Documents\VeryGoodEats\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\f87045d13cf7e3313b6ede0242c2118d\transformed\viewbinding-7.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\f87045d13cf7e3313b6ede0242c2118d\transformed\viewbinding-7.2.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.2] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\10fedb13eb3d22aa52b606324a5f551f\transformed\navigation-fragment-ktx-2.5.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.2] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\10fedb13eb3d22aa52b606324a5f551f\transformed\navigation-fragment-ktx-2.5.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-fragment:2.5.2] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\3c864199c9f195899a43b46660d8ac68\transformed\navigation-fragment-2.5.2\AndroidManifest.xml:20:5-22:41
@@ -171,6 +181,8 @@ MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Gaming P
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\6b86088a49c79524b61b264c6914d59e\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\ccdc8c954c225971fb1ba682628455ca\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\ccdc8c954c225971fb1ba682628455ca\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\d1b5b6a16e8b3328234cd0ad144548eb\transformed\glide-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\d1b5b6a16e8b3328234cd0ad144548eb\transformed\glide-4.12.0\AndroidManifest.xml:6:5-8:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\d818e9c285c81031048e980ab34d2511\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\d818e9c285c81031048e980ab34d2511\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.5.2] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\7d511a84a4a79e53a0626155ffd1eedb\transformed\fragment-1.5.2\AndroidManifest.xml:20:5-22:41
@@ -195,12 +207,6 @@ MERGED from [com.intuit.ssp:ssp-android:1.0.6] C:\Users\Gaming Pc\Documents\Andr
 MERGED from [com.intuit.ssp:ssp-android:1.0.6] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\938913b8ffc028d11712903064c7ed3f\transformed\ssp-android-1.0.6\AndroidManifest.xml:7:5-9:41
 MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.17] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\a5a516f6e3b59a4549c243f4b458179c\transformed\android-gif-drawable-1.2.17\AndroidManifest.xml:6:5-8:41
 MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.17] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\a5a516f6e3b59a4549c243f4b458179c\transformed\android-gif-drawable-1.2.17\AndroidManifest.xml:6:5-8:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\3292e01a2bd479c4855ad3f8cac1d149\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\3292e01a2bd479c4855ad3f8cac1d149\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\d675fd16f34da305fc8b36f95207523a\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\d675fd16f34da305fc8b36f95207523a\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\eb944d955966d410269278d2c4c52cfe\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\eb944d955966d410269278d2c4c52cfe\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\f9809ec2080ef6562ba4cd987fca9a13\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\f9809ec2080ef6562ba4cd987fca9a13\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\0bc6cf5b049b1fdd278e5ec7d0d096f1\transformed\appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
@@ -213,6 +219,10 @@ MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Gam
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\23642883c7593f5312431cad83b068bf\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\72c23bc281237ded14d74a34c225d993\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\72c23bc281237ded14d74a34c225d993\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\d8715f79c38c9da83dc192d9f77bf36a\transformed\gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\d8715f79c38c9da83dc192d9f77bf36a\transformed\gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\51ad15676f7b99f8e00dfcc41fe87707\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\51ad15676f7b99f8e00dfcc41fe87707\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\602071a6143264f9e6f1e3e8613bdfdc\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\602071a6143264f9e6f1e3e8613bdfdc\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\75a3c18948cfdaba36b78ca0e20d5c00\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
@@ -235,10 +245,16 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\9e317407a6cf4c48efbc9c8b280c6581\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\7341f734db0e321b6e690cf15510a7ca\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\7341f734db0e321b6e690cf15510a7ca\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\d675fd16f34da305fc8b36f95207523a\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\d675fd16f34da305fc8b36f95207523a\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\eb944d955966d410269278d2c4c52cfe\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\eb944d955966d410269278d2c4c52cfe\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\c212f43ac60f4030155113d80650484c\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\c212f43ac60f4030155113d80650484c\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\c5cfa46192c6459a466286c446cd169d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\c5cfa46192c6459a466286c446cd169d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\3292e01a2bd479c4855ad3f8cac1d149\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\3292e01a2bd479c4855ad3f8cac1d149\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\1688a8e3f91b4524e8c84093f5c44f4e\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\1688a8e3f91b4524e8c84093f5c44f4e\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Gaming Pc\Documents\Android App 2022\caches\transforms-3\af4c7b4be5dcde7203a695ae1668ea72\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41

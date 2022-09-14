@@ -40,8 +40,8 @@
 25-->C:\Users\Gaming Pc\Documents\VeryGoodEats\app\src\main\AndroidManifest.xml:9:9-44
 26        <activity
 26-->C:\Users\Gaming Pc\Documents\VeryGoodEats\app\src\main\AndroidManifest.xml:19:9-27:20
-27            android:name="com.example.verygoodeats.MainActivity"
-27-->C:\Users\Gaming Pc\Documents\VeryGoodEats\app\src\main\AndroidManifest.xml:20:13-41
+27            android:name="com.example.verygoodeats.activities.MainActivity"
+27-->C:\Users\Gaming Pc\Documents\VeryGoodEats\app\src\main\AndroidManifest.xml:20:13-52
 28            android:exported="true" >
 28-->C:\Users\Gaming Pc\Documents\VeryGoodEats\app\src\main\AndroidManifest.xml:21:13-36
 29            <intent-filter>
